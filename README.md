@@ -16,4 +16,4 @@
 #### 그리드
 * 본래 그리드란 격자나 눈금을 말하지만 웹 디자인에서 말하는 그리드는 웹 페이지의 가로 크기 또는 세로키기, 여백, 단 수 등 웹사이트의 구조 설계를 위한 의미로 사용되고 있다.
 
-#### 실습 - [고정 크기의 박스를 가변 크기의 박스로 변환하기](https://github.com/hwangtaeeun/01_1.html)
+#### 실습 - [고정 크기의 박스를 가변 크기의 박스로 변환하기](https://github.com/HwangTaeeun/ResponsiveWeb/blob/master/01_1.html)
